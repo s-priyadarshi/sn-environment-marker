@@ -4,7 +4,7 @@
 
 ---
 
-##  Know where you are in ServiceNow—instantly.
+##  Know where you are in ServiceNow.
 
 **Where Am I** adds subtle visual indicators to your ServiceNow instances, helping you distinguish environments at a glance.
 
