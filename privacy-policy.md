@@ -1,6 +1,6 @@
 # Privacy Policy – Where Am I
 
-This extension does **not** collect, store, or transmit any personal data.
+This extension does **not** collect, or transmit any personal data.
 
 ## What the Extension Does
 
